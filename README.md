@@ -1,5 +1,5 @@
 # Projects
-Hello and welcome to my github projects page. Here, you can find all my data science projects
+Hello and welcome to my github projects repository. Here, you can find all my data science projects
 
 I will add new projects every day and go through all techniques and technologies in Data Science, machine learning, and deep learning such as : 
 
